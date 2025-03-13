@@ -1,0 +1,1 @@
+This project is a Odin Recipe website demonstrating HTML and GitHub workflow.
