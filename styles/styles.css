@@ -26,3 +26,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 2em;
 }
+.title-two {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 3em;
+    color: brown;
+}
+.p2 {
+    text-align: center;
+}
+.p2-1 {
+    text-align: center;
+}
